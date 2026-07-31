@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720">
+  <rect width="1000" height="720" fill="#f5f7fa"/>
+  <rect x="110" y="105" width="780" height="465" rx="18" fill="#fff" stroke="#dbe3ee" stroke-width="4"/>
+  <rect x="170" y="175" width="260" height="305" rx="12" fill="#e6f7f8"/>
+  <circle cx="300" cy="285" r="76" fill="#0d63b8"/>
+  <rect x="230" y="380" width="140" height="58" fill="#101827"/>
+  <rect x="500" y="180" width="300" height="36" fill="#0d63b8"/>
+  <rect x="500" y="260" width="330" height="24" fill="#c8d4e2"/>
+  <rect x="500" y="318" width="270" height="24" fill="#c8d4e2"/>
+  <rect x="500" y="376" width="310" height="24" fill="#c99749"/>
+  <text x="145" y="645" font-family="Arial" font-size="38" font-weight="700" fill="#101827">Qingdao Yunjingcheng Trading</text>
+</svg>

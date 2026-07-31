@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720">
+  <rect width="1000" height="720" fill="#f5f7fa"/>
+  <rect x="90" y="305" width="820" height="295" fill="#fff" stroke="#dbe3ee" stroke-width="4"/>
+  <path d="M90 305l160-112v112l160-112v112l160-112v112h340" fill="#e8eef5" stroke="#dbe3ee" stroke-width="4"/>
+  <rect x="160" y="390" width="135" height="98" fill="#0d63b8"/>
+  <rect x="345" y="390" width="135" height="98" fill="#00a0a8"/>
+  <rect x="530" y="390" width="135" height="98" fill="#c99749"/>
+  <rect x="730" y="370" width="96" height="230" fill="#101827"/>
+  <text x="110" y="135" font-family="Arial" font-size="46" font-weight="700" fill="#101827">Sourcing • Packing • Export</text>
+</svg>

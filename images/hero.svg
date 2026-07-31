@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1000" viewBox="0 0 1800 1000">
+  <rect width="1800" height="1000" fill="#111827"/>
+  <path d="M930 240h520v470H930z" fill="#dbe3ee" opacity=".18"/>
+  <path d="M1000 310h110v400h-110zM1160 265h150v445h-150zM1360 350h88v360h-88z" fill="#fff" opacity=".22"/>
+  <path d="M860 710h700v70H860z" fill="#c99749" opacity=".86"/>
+  <circle cx="1050" cy="790" r="82" fill="#050914" opacity=".62"/>
+  <circle cx="1420" cy="790" r="82" fill="#050914" opacity=".62"/>
+  <rect x="1020" y="160" width="390" height="56" fill="#00a0a8" opacity=".72"/>
+  <text x="980" y="126" font-family="Arial" font-size="52" font-weight="700" fill="#fff">Global Industrial Supply</text>
+</svg>
